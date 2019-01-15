@@ -1,0 +1,4 @@
+#Thu Mar 15 09:39:42 ICT 2018
+base.0=C\:\\Users\\admin\\Desktop\\Temp\\sunaostudiopronunciationapp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PronunciationJourney</string>
+    <string name="sunao_studio">SUNAO STUDIO</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="popular_word">Popular Word</string>
+    <string name="popular_collocation">Popular Collocation</string>
+    <string name="practice_word">Practice Word</string>
+    <string name="challenge">Challenge</string>
+    <string name="textview_question_practice">Practice Question</string>
+    <string name="textview_description">Description</string>
+    <string name="hint_practice_result">Hint Practice Result</string>
+    <string name="practice_score">Your Score : 0</string>
+    <string name="next_quiz">Next Challenge</string>
+    <string name="please_try_again">Please Try Again!</string>
+    <string name="your_score">Your Score :</string>
+    <string name="done_practice">Practice Completed!</string>
+    <string name="checking_answer">Your answer are checking ....</string>
+    <string name="cancel">Cancel</string>
+    <string name="want_exit_practice">You want exit practice process?</string>
+    <string name="want_exit_app">Dou you really want to exit app ?</string>
+    <string name="you_have_pronounce">You have pronounce</string>
+    <string name="time_need_complete">Time : 00.00</string>
+    <string name="choose_other_question_for_continue">Done question.\nChoose others question to complete challenge!</string>
+    <string name="done_question">Question Done!</string>
+</resources>

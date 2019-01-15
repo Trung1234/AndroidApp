@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndicatorView"><attr format="dimension" name="haudo_radius_selected"/><attr format="dimension" name="haudo_radius_unselected"/><attr format="color" name="haudo_color_selected"/><attr format="color" name="haudo_color_unselected"/><attr format="dimension" name="haudo_distance"/></declare-styleable>
+    <string name="app_name">ViewPagerIndicator</string>
+</resources>

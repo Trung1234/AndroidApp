@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="@dimen/_90sdp"
+    android:layout_margin="@dimen/_5sdp"
+    android:layout_marginBottom="10dp">
+
+    <ImageView
+        android:id="@+id/imgCollo"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_60sdp"
+        android:layout_weight="1"
+        android:src="@drawable/favourite" />
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="5">
+        <TextView
+            android:id="@+id/txtEng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:maxLength="25"
+            android:text="Group"
+            android:textSize="@dimen/_15sdp" />
+
+        <TextView
+            android:id="@+id/textProgress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:layout_marginRight="@dimen/_5sdp"
+            android:text="1/12"
+            android:textSize="@dimen/_15sdp" />
+
+        <TextView
+            android:id="@+id/txtViet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txtEng"
+            android:layout_alignStart="@+id/txtEng"
+            android:layout_below="@+id/txtEng"
+            android:maxLength="25"
+            android:text="Nhóm từ 1"
+            android:textSize="@dimen/_15sdp" />
+
+        <ProgressBar
+            android:id="@+id/progressColo"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/txtProgress"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/txtProgress"
+            android:max="12"
+            android:progressDrawable="@drawable/custom_progressbar" />
+    </RelativeLayout>
+
+
+</LinearLayout>

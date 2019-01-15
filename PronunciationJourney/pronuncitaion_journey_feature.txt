@@ -1,0 +1,6 @@
+Pronunciation Journey Feature:
++ Cho phép người dùng luyện tập từ mới
++ Cho phép người dùng luyện tập các mẫu câu giao tiếp thông dụng
++ CHo phép người dùng luyện tập hàng ngày
++ Cho phép người dùng tham gia các thử thách để nhận quà
++ Cho phép người dùng mua thêm bộ từ vựng,bỏ quảng cáo bằng cách tích điểm hay trả tiền
